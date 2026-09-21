@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juyuandianzi.cn/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7e8c1df2603a6b738dca48a2",
+  "owner": "jaxqghhgjxu",
+  "repo": "page-102abaa7b18d24ea897d6e16",
+  "title": "松果云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "102abaa7b18d24ea897d6e16",
+      "a": "松果云",
+      "b": "机场官网线路发布页",
+      "entity": "松果云",
+      "brand": "松果云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "70fcc6c6a8c1bb794c7a272a3afb0d8c85a37b4d71ea42918e0657aaba01bfa0",
+      "content": {
+        "primary_entity": "松果云",
+        "keyword1": "松果云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器各有对应客户端，按系统挑选即可。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，松果云就能在常用设备上跑起来。",
+          "AI_CLOSING_TITLE": "从松果云开始连接",
+          "AI_DESCRIPTION": "，松果云提供基础版、旗舰版与团队版三档套餐，月付价格分别为 ¥15、¥35 和 ¥85，按年付则依次为 ¥150、¥350 与 ¥850。基础版适合轻度浏览与单设备使用，旗舰版增加 IPLC 专线并支持 5 台设备同时在线，团队版面向 20 台设备以内的协作场景。客户端覆盖手机、电脑与路由器，可按设备类型查看配置说明。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。轻度使用选基础版，多设备或需要专线选旗舰版，小团队协作选团队版。",
+          "AI_FAQ_ANSWER_2": "同一账号在套餐允许的设备数量内可以同时在线，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量时，可先下线不使用的设备再连接新设备。",
+          "AI_FAQ_ANSWER_3": "可以。选购套餐后，客户端里导入订阅地址即可开始使用，具体步骤参考对应客户端的配置说明。手机、电脑与路由器端分别有各自的操作方式。",
+          "AI_FAQ_ANSWER_4": "手机端通常按系统选择对应客户端，电脑端按 Windows 或 macOS 选择，路由器端需要手动配置订阅。先确认设备系统，再进入客户端列表查看匹配项。",
+          "AI_FAQ_ANSWER_5": "切换节点一般在客户端内选择线路后重新连接即可。旗舰版与团队版包含更高带宽或专线节点，基础版使用普通线路节点池，可按需在套餐内切换。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "松果云不同套餐之间有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "购买套餐后如何开始使用？",
+          "AI_FAQ_QUESTION_4": "不同设备应该选哪个客户端？",
+          "AI_FAQ_QUESTION_5": "如何切换节点或线路？",
+          "AI_FAQ_TITLE": "套餐与使用问答",
+          "AI_FEATURES_INTRO": "按设备数量与流量需求選套餐，再对照客户端完成订阅配置。",
+          "AI_FEATURES_TITLE": "选择松果云的三个要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量选择同时在线额度。",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，按日常浏览、流媒体或团队协作选。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，旗舰版与团队版含专线或高带宽节点，适合稳定连接需求。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "流量额度分级",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "先确定用途，再看设备要求，最后在客户端里导入订阅。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "松果云提供基础版、旗舰版与团队版三档套餐，月付 ¥15 起、年付 ¥150 起，覆盖手机、电脑与路由器客户端。按设备数量和流量需求选择套餐，再参照客户端文档完成订阅配置，即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量挑套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至小团队",
+          "AI_HIGHLIGHT_2": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_3": "手机电脑路由器均有客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻度使用，旗舰版 ¥35/月含 IPLC 专线与 5 台设备，团队版 ¥85/月支持 20 台设备。年付价格分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的同时在线设备数，确认常用设备都在额度内。",
+          "AI_STEP_TEXT_3": "按设备系统选择客户端，参照客户端文档导入订阅并连接。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "松果云套餐与客户端"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "juyuandianzi.cn",
+    "host": "juyuandianzi.cn"
+  },
+  "file_hashes": {
+    "index.html": "01ef06ec8122ecc644b496956955e556f8e769da1d9488e285d0b87e1cf1d181",
+    "sitemap.xml": "7b3cc4169a664ebd81a0ee7ff837f91f07fd4f1b654e6fc912ff2d776bf49743",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "54452f238ba5908bd0b78745099bcf13404a74f7597027b683a7e9ef227bf88b",
+    "robots.txt": "5df609f6105c5e8f241e00db42f8d28dbce0fa993f4751582653f3640638c306",
+    "d2c70b0e737178c1918dfebc5b7bcb05.txt": "75ab57747a88dd03f3a0b8b890f15e83c9e365886c99b99d6aac58925cd00e05"
+  },
+  "revision": "ed12972b9a35a89e98bc09a55d014a062f5259bd8b8bd5a4c9d325c32071b05f"
+}
